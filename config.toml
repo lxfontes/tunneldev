@@ -1,3 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://tunnel.dev/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "BUY THIS DOMAIN"
+theme = "vanilla-bootstrap-hugo-theme"
